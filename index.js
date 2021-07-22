@@ -7,6 +7,7 @@ const person={
     width:799,
     height:534,
     color:"red",
+    jey:"got",
   },
 };
 console.log(person);
